@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "rpg game",
+  "main": "app.js",
+  "scripts": {
+    "jest": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/essennejaye/jest-another-rpg.git"
+  },
+  "author": "essennejaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/essennejaye/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/essennejaye/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
